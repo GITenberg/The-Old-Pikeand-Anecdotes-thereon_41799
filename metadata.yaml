@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '41373'
     url: http://www.gutenberg.org/2009/agents/41373
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41799#The-Old-Pikeand-Anecdotes-thereon
 gutenberg_issued: '2013-01-07'
 gutenberg_type: Text
 identifiers:
