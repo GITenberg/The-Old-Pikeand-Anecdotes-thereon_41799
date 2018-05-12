@@ -1,0 +1,28 @@
+_repo: The-Old-Pikeand-Anecdotes-thereon_41799
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41799-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Searight, Thomas B. (Thomas Brownfield)
+    alias: Searight, Thomas Brownfield
+    gutenberg_agent_id: '41373'
+    url: http://www.gutenberg.org/2009/agents/41373
+description: ''
+gutenberg_issued: '2013-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41799'
+  lccn: 01015992
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pennsylvania -- Biography'
+- !lcc 'HE'
+- !lcsh 'Cumberland Road'
+title: "The Old Pike\r\nA History of the National Road, with Incidents, Accidents,\
+  \ and Anecdotes Thereon"
+url: http://www.gutenberg.org/ebooks/41799
